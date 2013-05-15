@@ -28,4 +28,4 @@ install:
   - pwd
   - ls
 
-script: python test_main.py
+script: py.test
